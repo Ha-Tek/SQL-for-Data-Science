@@ -1,0 +1,8 @@
+INSTRUCTION: All of the questions in this quiz refer to the open source Chinook Database. Please familiarize yourself with the 
+ER diagram (https://ucde-rey.s3.amazonaws.com/DSV1015/ChinookDatabaseSchema.png) in order to familiarize yourself
+with the table and column names in order to write accurate queries and get the appropriate answers.
+-------------------------------------------------------------------------------------------------------------------------------
+ 
+  Q1: Pull a list of customer ids with the customer’s full name, and address, along with combining their city and country together.
+      Be sure to make a space in between these two and make it UPPER CASE. (e.g. LOS ANGELES USA)
+ 
