@@ -1,4 +1,4 @@
-# SQL for Data Science hands-on projects
+# SQL for Data Science Hands-on Projects/Exercises
 
 This repository contains solutions and practice questions based on the **Coursera SQL for Data Science** course.
 
